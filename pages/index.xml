@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugo Winston</title>
+    <title>Pages on meiyong.de</title>
     <link>/pages/</link>
-    <description>Recent content in Pages on Hugo Winston</description>
+    <description>Recent content in Pages on meiyong.de</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     
 	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
